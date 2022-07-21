@@ -1,2 +1,3 @@
-#SMS- Validation using react as UI and express and coookies as backend
-with the help of twilio.
+# 2FA Validation using twilio.
+ 
+ - here we use twilio to check the user and allow the api to croos over. 
